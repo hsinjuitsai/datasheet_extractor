@@ -1,0 +1,92 @@
+{
+  "1N4148W": {
+    "part_number": "1N4148W",
+    "max_length_mm": 3.86,
+    "max_width_mm": 1.8,
+    "max_height_mm": 1.35,
+    "pin_number": 2,
+    "evidence_page": 3,
+    "evidence": "Used page 3, the detailed 'Mechanical Dimensions SOD-123 (Millimeters/Inches)' drawing. In the main top view, the largest outer vertical body dimension is 3.86 mm max and the orthogonal outer horizontal body dimension is 1.80 mm max. In the side view, the maximum height/thickness is 1.35 mm max. Pin count determined as 2 from the SOD-123 diode package drawing/marking with two terminals (cathode and anode)."
+  },
+  "BAS16": {
+    "part_number": "BAS16",
+    "max_length_mm": 3.0,
+    "max_width_mm": 2.5,
+    "max_height_mm": 1.1,
+    "pin_number": 3,
+    "evidence_page": 5,
+    "evidence": "Used page 5, Fig. 7 'Package outline SOT23' (detailed package outline, dimensions in mm). Main top view shows overall outer package dimensions 3.0 / 2.8 mm horizontally and 2.5 / 2.1 mm vertically; took maxima: length = 3.0 mm and width = 2.5 mm. Side view shows package height 1.1 / 0.9 mm; took maximum height = 1.1 mm. Pin labels 1, 2, 3 in the package outline (and page 1 pinning table) indicate 3 pins."
+  },
+  "BAS21H": {
+    "part_number": "BAS21H",
+    "max_length_mm": 2.7,
+    "max_width_mm": 1.35,
+    "max_height_mm": 1.0,
+    "pin_number": 2,
+    "evidence_page": 4,
+    "evidence": "Used page 4, the detailed mechanical case outline for SOD-323 / CASE 477. In the millimeters table, D = 1.80 max and H = 2.70 max in the top view; the largest outer body dimension is H, so length = 2.70 mm and the orthogonal outer dimension E = 1.35 max gives width = 1.35 mm. Height is from the end view using A = 1.00 max. Pin count is 2, visible from the top-view terminal labels '1' and '2' and the two-lead package drawing."
+  },
+  "BAT750": {
+    "part_number": "BAT750",
+    "max_length_mm": 3.0,
+    "max_width_mm": 2.55,
+    "max_height_mm": 1.1,
+    "pin_number": 3,
+    "evidence_page": 4,
+    "evidence": "Used page 4, the detailed 'Package Outline Dimensions' for SOT23 (Standard). From the dimension table, maximum values are D = 3.00 mm, E = 2.55 mm, and A1+A2 gives maximum overall height = 0.10 + 1.00 = 1.10 mm (A is also listed with max 1.10 mm, confirming total height). Pin count is 3 from the SOT23 package outline/top view showing three terminals."
+  },
+  "BAV99W": {
+    "part_number": "BAV99W",
+    "max_length_mm": 2.2,
+    "max_width_mm": 2.2,
+    "max_height_mm": 1.0,
+    "pin_number": 3,
+    "evidence_page": 5,
+    "evidence": "Used page 5 'Package Dimensions' drawing (best mechanical outline page). In the main front view, the horizontal outer body dimension is 2 ±0.2, so max length = 2.2 mm. The vertical outer body dimension is 2.1 ±0.1, so max width = 2.2 mm. In the side/bottom views, package thickness is shown as 0.9 ±0.1, so max height = 1.0 mm. Pin count is 3, visible from terminal labels 1, 2, 3 and package name SOT-323 / USM."
+  },
+  "CD4148WTP": {
+    "part_number": "CD4148WTP",
+    "max_length_mm": 1.65,
+    "max_width_mm": 0.9,
+    "max_height_mm": 0.75,
+    "pin_number": 2,
+    "evidence_page": 1,
+    "evidence": "Page 1 is the best package-dimension page because it shows the package outline drawing and the DIMENSIONS table for size 0603. The table lists L = 1.55±0.1 mm, W = 0.80±0.1 mm, T = 0.65±0.1 mm, C = 0.35±0.1 mm. Using maximum envelope values from the ± tolerance gives max length L = 1.65 mm, max width W = 0.90 mm, and max height/thickness T = 0.75 mm. The package drawing is a two-terminal diode package, so pin count is 2."
+  },
+  "DFLS160": {
+    "part_number": "DFLS160",
+    "max_length_mm": 4.0,
+    "max_width_mm": 1.9,
+    "max_height_mm": 1.0,
+    "pin_number": 2,
+    "evidence_page": 4,
+    "evidence": "Used page 4, the detailed 'Package Outline Dimensions' for package PowerDI123. Took maximum values from the dimension table: E = 4.00 mm (largest outer bottom-view length), D = 1.90 mm (top-view orthogonal body width), and A = 1.00 mm (maximum height from seating plane). Pin count determined as 2 from the two terminal ends shown in the package outline / bottom view labeled L(2x)."
+  },
+  "MBR15U150": {
+    "part_number": "MBR15U150",
+    "max_length_mm": 6.6,
+    "max_width_mm": 5.5,
+    "max_height_mm": 1.9,
+    "pin_number": 3,
+    "evidence_page": 1,
+    "evidence": "Page 1 contains the detailed TO-277 package outline and dimension table. Used the package body/envelope dimensions from the MM Max column: C = 6.60 mm and D = 5.50 mm as the two main outer package dimensions in the top view, and F = 1.90 mm as the maximum thickness/height from the side view. Pin count taken from the visible internal structure/package labeling showing PIN 1, PIN 2, and PIN 3."
+  },
+  "MSB30M": {
+    "part_number": "MSB30M",
+    "max_length_mm": 7.4,
+    "max_width_mm": 6.7,
+    "max_height_mm": 1.5,
+    "pin_number": 4,
+    "evidence_page": 4,
+    "evidence": "Used page 4, the detailed 'Package Outline Dimensions' drawing/table for package MSBL. From the table: E max = 7.40 mm and D max = 6.70 mm for the main top-view outer body dimensions; A max = 1.50 mm for overall height from seating plane. The package drawing shows 4 terminals/pins (four corner leads; pin 1 marked, and page 1 pin diagram also confirms 4 pins). Length taken as the larger main-view outer dimension E = 7.40 mm, width as orthogonal outer dimension D = 6.70 mm."
+  },
+  "SBR05U20LPS": {
+    "part_number": "SBR05U20LPS",
+    "max_length_mm": 1.075,
+    "max_width_mm": 0.675,
+    "max_height_mm": 0.4,
+    "pin_number": 2,
+    "evidence_page": 4,
+    "evidence": "Used page 4, the detailed 'Package Outline Dimensions' for package X2-DFN1006-2. In the main top-view/body outline, D is the horizontal outer body dimension with Max 1.075 mm, and E is the vertical outer body dimension with Max 0.675 mm. In the side view, A is the package thickness/height from seating plane with Max 0.40 mm. Pin count taken from package name 'X2-DFN1006-2' and the drawing note 'Pin #1 ID', indicating a 2-pin package."
+  }
+}
